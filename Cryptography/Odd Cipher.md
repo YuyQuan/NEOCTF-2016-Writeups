@@ -22,7 +22,7 @@ for char in flag:
 	step += 1
 print(message)
 ```
-<br><br>
+<br>
 flag: flag{W3irD_C1ph3r}<br>
 <b>by defund [team n0de]</b><br>
 Note: This is the sort of challenge where you can't think that much while solving it; I did it half asleep on the schoolbus.
