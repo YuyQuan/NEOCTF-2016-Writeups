@@ -4,7 +4,7 @@ Need to mention, there are numbers in the flag, and also, there is an underscore
 team n0de for solving this problem without this information somehow :).<br>
 Hint: Should come out to be a readable phrase<br><br>
 <b>Solution:</b><br>
-Ok, so this is an odd cipher. If you observe how the first 4 characters relate to 'flag', you'll notice that the shifting increment increases by 1 every time. How odd.<br>
+:/, this is an odd cipher. If you observe how the first 4 characters relate to 'flag', you'll notice that the shifting increment increases by 1 every time. How odd.<br>
 Of course, what's odder is that sometimes the letters will shift back to the beginning of their corresponding upper or lowercase alphabet, or they'll shift to a number of underscore.<br>
 To fix that, just edit the program below [whether or not it cycles] and find the readable combination of the outputs. Voila.<br><br>
 ```python
