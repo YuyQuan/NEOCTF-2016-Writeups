@@ -20,6 +20,7 @@ for char in flag:
     message += shift(char,step)
     step += 1
 print(message)<br><br>
-flag: flag{W3irD_C1ph3r}
-by defund
+flag: flag{W3irD_C1ph3r}<br>
+<b>by defund</b><br>
+Note: This is the sort of challenge where you can't think that much while solving it; I did it half asleep on the schoolbus.
 
