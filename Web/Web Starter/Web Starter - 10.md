@@ -8,7 +8,7 @@ Open the console.
 
 <b> Solution: </b> <br>
 
-In this problem, we are given a website that only hasa single button on it. The first thing we should do is to view the source of the website. Doing so reveals that a string is being written to the console.
+In this problem, we are given a website that only has a single button on it. The first thing we should do is to view the source of the website. Doing so reveals that a string is being written to the console.
 
 To check the console, we open developer tools in whichever web browser you are using (F12 in Chrome), and click on the console tab. Sure enough, our flag is right there.
 
