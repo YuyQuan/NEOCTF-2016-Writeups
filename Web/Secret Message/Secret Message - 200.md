@@ -1,5 +1,5 @@
 <b> Problem: </b> <br>
-You've received a message from Adam! Can you figure out what to do to help him out???
+You've received a message from Adam! Can you figure out what to do to help him out???<br>
 [http://162.243.0.171/Message.html](http://162.243.0.171/Message.html)
 
 <b>tl;dr</b><br>
